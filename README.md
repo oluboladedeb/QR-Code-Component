@@ -1,6 +1,6 @@
 # QR-Code-Component
 Built With:
 __________________________________________________________________________________________________________________________________________
-Semantic HTML5 markup
+- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
